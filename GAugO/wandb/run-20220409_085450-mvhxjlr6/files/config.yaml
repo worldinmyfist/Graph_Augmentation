@@ -1,0 +1,68 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.14
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.6
+    start_time: 1649474690
+    t:
+      1:
+      - 1
+      - 5
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 53
+      - 55
+      3:
+      - 2
+      - 16
+      4: 3.7.6
+      5: 0.12.14
+      8:
+      - 5
+alpha:
+  desc: null
+  value: 0.08
+beta:
+  desc: null
+  value: 0.0
+dataset:
+  desc: null
+  value: citeseer
+ep_epochs:
+  desc: null
+  value: 290
+feat_norm:
+  desc: null
+  value: row
+gnn:
+  desc: null
+  value: gsage
+layer_type:
+  desc: null
+  value: gsage
+lr:
+  desc: null
+  value: 0.01
+model_type:
+  desc: null
+  value: GAugO
+n_layers:
+  desc: null
+  value: 1
+nc_epochs:
+  desc: null
+  value: 10
+temperature:
+  desc: null
+  value: 1.4
+warmup:
+  desc: null
+  value: 0

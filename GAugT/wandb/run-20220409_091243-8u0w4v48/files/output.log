@@ -1,0 +1,384 @@
+Pretraining EPNet (Epoch [  1/5]) --- Loss: 0.693, AUC: 0.57, AP Score: 0.53
+Pretraining EPNet (Epoch [  2/5]) --- Loss: 0.690, AUC: 0.86, AP Score: 0.84
+Pretraining EPNet (Epoch [  3/5]) --- Loss: 0.683, AUC: 0.90, AP Score: 0.89
+Pretraining EPNet (Epoch [  4/5]) --- Loss: 0.672, AUC: 0.91, AP Score: 0.90
+Pretraining EPNet (Epoch [  5/5]) --- Loss: 0.655, AUC: 0.92, AP Score: 0.91
+Pretraining NCNet (Epoch [  1/275]) --- Loss: 1.389, Val Acc: 0.29
+Pretraining NCNet (Epoch [  2/275]) --- Loss: 1.390, Val Acc: 0.30
+Pretraining NCNet (Epoch [  3/275]) --- Loss: 1.370, Val Acc: 0.32
+Pretraining NCNet (Epoch [  4/275]) --- Loss: 1.372, Val Acc: 0.32
+Pretraining NCNet (Epoch [  5/275]) --- Loss: 1.378, Val Acc: 0.32
+Pretraining NCNet (Epoch [  6/275]) --- Loss: 1.358, Val Acc: 0.32
+Pretraining NCNet (Epoch [  7/275]) --- Loss: 1.362, Val Acc: 0.31
+Pretraining NCNet (Epoch [  8/275]) --- Loss: 1.334, Val Acc: 0.31
+Pretraining NCNet (Epoch [  9/275]) --- Loss: 1.334, Val Acc: 0.32
+Pretraining NCNet (Epoch [ 10/275]) --- Loss: 1.343, Val Acc: 0.32
+Pretraining NCNet (Epoch [ 11/275]) --- Loss: 1.332, Val Acc: 0.33
+Pretraining NCNet (Epoch [ 12/275]) --- Loss: 1.321, Val Acc: 0.36
+Pretraining NCNet (Epoch [ 13/275]) --- Loss: 1.337, Val Acc: 0.37
+Pretraining NCNet (Epoch [ 14/275]) --- Loss: 1.318, Val Acc: 0.37
+Pretraining NCNet (Epoch [ 15/275]) --- Loss: 1.279, Val Acc: 0.38
+Pretraining NCNet (Epoch [ 16/275]) --- Loss: 1.286, Val Acc: 0.38
+Pretraining NCNet (Epoch [ 17/275]) --- Loss: 1.285, Val Acc: 0.39
+Pretraining NCNet (Epoch [ 18/275]) --- Loss: 1.291, Val Acc: 0.38
+Pretraining NCNet (Epoch [ 19/275]) --- Loss: 1.262, Val Acc: 0.39
+Pretraining NCNet (Epoch [ 20/275]) --- Loss: 1.261, Val Acc: 0.38
+Pretraining NCNet (Epoch [ 21/275]) --- Loss: 1.233, Val Acc: 0.39
+Pretraining NCNet (Epoch [ 22/275]) --- Loss: 1.227, Val Acc: 0.40
+Pretraining NCNet (Epoch [ 23/275]) --- Loss: 1.224, Val Acc: 0.40
+Pretraining NCNet (Epoch [ 24/275]) --- Loss: 1.216, Val Acc: 0.40
+Pretraining NCNet (Epoch [ 25/275]) --- Loss: 1.200, Val Acc: 0.41
+Pretraining NCNet (Epoch [ 26/275]) --- Loss: 1.179, Val Acc: 0.41
+Pretraining NCNet (Epoch [ 27/275]) --- Loss: 1.171, Val Acc: 0.42
+Pretraining NCNet (Epoch [ 28/275]) --- Loss: 1.147, Val Acc: 0.42
+Pretraining NCNet (Epoch [ 29/275]) --- Loss: 1.141, Val Acc: 0.43
+Pretraining NCNet (Epoch [ 30/275]) --- Loss: 1.145, Val Acc: 0.45
+Pretraining NCNet (Epoch [ 31/275]) --- Loss: 1.127, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 32/275]) --- Loss: 1.177, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 33/275]) --- Loss: 1.156, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 34/275]) --- Loss: 1.131, Val Acc: 0.45
+Pretraining NCNet (Epoch [ 35/275]) --- Loss: 1.113, Val Acc: 0.45
+Pretraining NCNet (Epoch [ 36/275]) --- Loss: 1.097, Val Acc: 0.45
+Pretraining NCNet (Epoch [ 37/275]) --- Loss: 1.060, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 38/275]) --- Loss: 1.032, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 39/275]) --- Loss: 1.095, Val Acc: 0.43
+Pretraining NCNet (Epoch [ 40/275]) --- Loss: 1.049, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 41/275]) --- Loss: 1.032, Val Acc: 0.43
+Pretraining NCNet (Epoch [ 42/275]) --- Loss: 1.076, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 43/275]) --- Loss: 1.031, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 44/275]) --- Loss: 1.050, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 45/275]) --- Loss: 1.012, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 46/275]) --- Loss: 1.031, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 47/275]) --- Loss: 0.952, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 48/275]) --- Loss: 0.940, Val Acc: 0.43
+Pretraining NCNet (Epoch [ 49/275]) --- Loss: 0.979, Val Acc: 0.44
+Pretraining NCNet (Epoch [ 50/275]) --- Loss: 0.881, Val Acc: 0.45
+Pretraining NCNet (Epoch [ 51/275]) --- Loss: 0.977, Val Acc: 0.45
+Pretraining NCNet (Epoch [ 52/275]) --- Loss: 0.939, Val Acc: 0.46
+Pretraining NCNet (Epoch [ 53/275]) --- Loss: 0.960, Val Acc: 0.47
+Pretraining NCNet (Epoch [ 54/275]) --- Loss: 0.891, Val Acc: 0.48
+Pretraining NCNet (Epoch [ 55/275]) --- Loss: 0.935, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 56/275]) --- Loss: 0.942, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 57/275]) --- Loss: 0.889, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 58/275]) --- Loss: 0.948, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 59/275]) --- Loss: 0.894, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 60/275]) --- Loss: 0.853, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 61/275]) --- Loss: 0.951, Val Acc: 0.47
+Pretraining NCNet (Epoch [ 62/275]) --- Loss: 0.869, Val Acc: 0.47
+Pretraining NCNet (Epoch [ 63/275]) --- Loss: 0.965, Val Acc: 0.47
+Pretraining NCNet (Epoch [ 64/275]) --- Loss: 0.910, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 65/275]) --- Loss: 0.913, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 66/275]) --- Loss: 0.914, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 67/275]) --- Loss: 0.905, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 68/275]) --- Loss: 0.846, Val Acc: 0.49
+Pretraining NCNet (Epoch [ 69/275]) --- Loss: 0.864, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 70/275]) --- Loss: 0.800, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 71/275]) --- Loss: 0.832, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 72/275]) --- Loss: 0.857, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 73/275]) --- Loss: 0.806, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 74/275]) --- Loss: 0.843, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 75/275]) --- Loss: 0.845, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 76/275]) --- Loss: 0.772, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 77/275]) --- Loss: 0.765, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 78/275]) --- Loss: 0.844, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 79/275]) --- Loss: 0.881, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 80/275]) --- Loss: 0.801, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 81/275]) --- Loss: 0.729, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 82/275]) --- Loss: 0.757, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 83/275]) --- Loss: 0.759, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 84/275]) --- Loss: 0.835, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 85/275]) --- Loss: 0.808, Val Acc: 0.50
+Pretraining NCNet (Epoch [ 86/275]) --- Loss: 0.770, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 87/275]) --- Loss: 0.786, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 88/275]) --- Loss: 0.729, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 89/275]) --- Loss: 0.779, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 90/275]) --- Loss: 0.796, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 91/275]) --- Loss: 0.752, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 92/275]) --- Loss: 0.853, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 93/275]) --- Loss: 0.745, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 94/275]) --- Loss: 0.680, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 95/275]) --- Loss: 0.745, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 96/275]) --- Loss: 0.702, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 97/275]) --- Loss: 0.734, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 98/275]) --- Loss: 0.748, Val Acc: 0.51
+Pretraining NCNet (Epoch [ 99/275]) --- Loss: 0.698, Val Acc: 0.51
+Pretraining NCNet (Epoch [100/275]) --- Loss: 0.745, Val Acc: 0.51
+Pretraining NCNet (Epoch [101/275]) --- Loss: 0.650, Val Acc: 0.51
+Pretraining NCNet (Epoch [102/275]) --- Loss: 0.709, Val Acc: 0.51
+Pretraining NCNet (Epoch [103/275]) --- Loss: 0.731, Val Acc: 0.50
+Pretraining NCNet (Epoch [104/275]) --- Loss: 0.746, Val Acc: 0.50
+Pretraining NCNet (Epoch [105/275]) --- Loss: 0.717, Val Acc: 0.51
+Pretraining NCNet (Epoch [106/275]) --- Loss: 0.792, Val Acc: 0.50
+Pretraining NCNet (Epoch [107/275]) --- Loss: 0.687, Val Acc: 0.50
+Pretraining NCNet (Epoch [108/275]) --- Loss: 0.685, Val Acc: 0.50
+Pretraining NCNet (Epoch [109/275]) --- Loss: 0.692, Val Acc: 0.50
+Pretraining NCNet (Epoch [110/275]) --- Loss: 0.683, Val Acc: 0.50
+Pretraining NCNet (Epoch [111/275]) --- Loss: 0.697, Val Acc: 0.51
+Pretraining NCNet (Epoch [112/275]) --- Loss: 0.739, Val Acc: 0.50
+Pretraining NCNet (Epoch [113/275]) --- Loss: 0.673, Val Acc: 0.50
+Pretraining NCNet (Epoch [114/275]) --- Loss: 0.680, Val Acc: 0.50
+Pretraining NCNet (Epoch [115/275]) --- Loss: 0.658, Val Acc: 0.50
+Pretraining NCNet (Epoch [116/275]) --- Loss: 0.621, Val Acc: 0.50
+Pretraining NCNet (Epoch [117/275]) --- Loss: 0.654, Val Acc: 0.50
+Pretraining NCNet (Epoch [118/275]) --- Loss: 0.693, Val Acc: 0.50
+Pretraining NCNet (Epoch [119/275]) --- Loss: 0.600, Val Acc: 0.51
+Pretraining NCNet (Epoch [120/275]) --- Loss: 0.639, Val Acc: 0.51
+Pretraining NCNet (Epoch [121/275]) --- Loss: 0.640, Val Acc: 0.51
+Pretraining NCNet (Epoch [122/275]) --- Loss: 0.637, Val Acc: 0.52
+Pretraining NCNet (Epoch [123/275]) --- Loss: 0.657, Val Acc: 0.52
+Pretraining NCNet (Epoch [124/275]) --- Loss: 0.612, Val Acc: 0.52
+Pretraining NCNet (Epoch [125/275]) --- Loss: 0.627, Val Acc: 0.51
+Pretraining NCNet (Epoch [126/275]) --- Loss: 0.595, Val Acc: 0.52
+Pretraining NCNet (Epoch [127/275]) --- Loss: 0.587, Val Acc: 0.52
+Pretraining NCNet (Epoch [128/275]) --- Loss: 0.599, Val Acc: 0.52
+Pretraining NCNet (Epoch [129/275]) --- Loss: 0.571, Val Acc: 0.53
+Pretraining NCNet (Epoch [130/275]) --- Loss: 0.556, Val Acc: 0.52
+Pretraining NCNet (Epoch [131/275]) --- Loss: 0.602, Val Acc: 0.52
+Pretraining NCNet (Epoch [132/275]) --- Loss: 0.558, Val Acc: 0.52
+Pretraining NCNet (Epoch [133/275]) --- Loss: 0.675, Val Acc: 0.52
+Pretraining NCNet (Epoch [134/275]) --- Loss: 0.558, Val Acc: 0.52
+Pretraining NCNet (Epoch [135/275]) --- Loss: 0.636, Val Acc: 0.52
+Pretraining NCNet (Epoch [136/275]) --- Loss: 0.545, Val Acc: 0.52
+Pretraining NCNet (Epoch [137/275]) --- Loss: 0.651, Val Acc: 0.53
+Pretraining NCNet (Epoch [138/275]) --- Loss: 0.600, Val Acc: 0.53
+Pretraining NCNet (Epoch [139/275]) --- Loss: 0.550, Val Acc: 0.53
+Pretraining NCNet (Epoch [140/275]) --- Loss: 0.545, Val Acc: 0.53
+Pretraining NCNet (Epoch [141/275]) --- Loss: 0.626, Val Acc: 0.53
+Pretraining NCNet (Epoch [142/275]) --- Loss: 0.617, Val Acc: 0.52
+Pretraining NCNet (Epoch [143/275]) --- Loss: 0.621, Val Acc: 0.51
+Pretraining NCNet (Epoch [144/275]) --- Loss: 0.539, Val Acc: 0.52
+Pretraining NCNet (Epoch [145/275]) --- Loss: 0.603, Val Acc: 0.52
+Pretraining NCNet (Epoch [146/275]) --- Loss: 0.585, Val Acc: 0.52
+Pretraining NCNet (Epoch [147/275]) --- Loss: 0.584, Val Acc: 0.52
+Pretraining NCNet (Epoch [148/275]) --- Loss: 0.521, Val Acc: 0.53
+Pretraining NCNet (Epoch [149/275]) --- Loss: 0.614, Val Acc: 0.53
+Pretraining NCNet (Epoch [150/275]) --- Loss: 0.549, Val Acc: 0.53
+Pretraining NCNet (Epoch [151/275]) --- Loss: 0.538, Val Acc: 0.53
+Pretraining NCNet (Epoch [152/275]) --- Loss: 0.527, Val Acc: 0.53
+Pretraining NCNet (Epoch [153/275]) --- Loss: 0.574, Val Acc: 0.53
+Pretraining NCNet (Epoch [154/275]) --- Loss: 0.569, Val Acc: 0.52
+Pretraining NCNet (Epoch [155/275]) --- Loss: 0.504, Val Acc: 0.52
+Pretraining NCNet (Epoch [156/275]) --- Loss: 0.569, Val Acc: 0.53
+Pretraining NCNet (Epoch [157/275]) --- Loss: 0.573, Val Acc: 0.53
+Pretraining NCNet (Epoch [158/275]) --- Loss: 0.491, Val Acc: 0.53
+Pretraining NCNet (Epoch [159/275]) --- Loss: 0.599, Val Acc: 0.53
+Pretraining NCNet (Epoch [160/275]) --- Loss: 0.582, Val Acc: 0.52
+Pretraining NCNet (Epoch [161/275]) --- Loss: 0.472, Val Acc: 0.52
+Pretraining NCNet (Epoch [162/275]) --- Loss: 0.525, Val Acc: 0.53
+Pretraining NCNet (Epoch [163/275]) --- Loss: 0.612, Val Acc: 0.52
+Pretraining NCNet (Epoch [164/275]) --- Loss: 0.509, Val Acc: 0.51
+Pretraining NCNet (Epoch [165/275]) --- Loss: 0.553, Val Acc: 0.51
+Pretraining NCNet (Epoch [166/275]) --- Loss: 0.538, Val Acc: 0.51
+Pretraining NCNet (Epoch [167/275]) --- Loss: 0.471, Val Acc: 0.52
+Pretraining NCNet (Epoch [168/275]) --- Loss: 0.544, Val Acc: 0.53
+Pretraining NCNet (Epoch [169/275]) --- Loss: 0.547, Val Acc: 0.51
+Pretraining NCNet (Epoch [170/275]) --- Loss: 0.514, Val Acc: 0.52
+Pretraining NCNet (Epoch [171/275]) --- Loss: 0.455, Val Acc: 0.52
+Pretraining NCNet (Epoch [172/275]) --- Loss: 0.478, Val Acc: 0.52
+Pretraining NCNet (Epoch [173/275]) --- Loss: 0.459, Val Acc: 0.52
+Pretraining NCNet (Epoch [174/275]) --- Loss: 0.475, Val Acc: 0.52
+Pretraining NCNet (Epoch [175/275]) --- Loss: 0.496, Val Acc: 0.52
+Pretraining NCNet (Epoch [176/275]) --- Loss: 0.459, Val Acc: 0.50
+Pretraining NCNet (Epoch [177/275]) --- Loss: 0.483, Val Acc: 0.51
+Pretraining NCNet (Epoch [178/275]) --- Loss: 0.590, Val Acc: 0.51
+Pretraining NCNet (Epoch [179/275]) --- Loss: 0.448, Val Acc: 0.51
+Pretraining NCNet (Epoch [180/275]) --- Loss: 0.504, Val Acc: 0.50
+Pretraining NCNet (Epoch [181/275]) --- Loss: 0.523, Val Acc: 0.51
+Pretraining NCNet (Epoch [182/275]) --- Loss: 0.474, Val Acc: 0.51
+Pretraining NCNet (Epoch [183/275]) --- Loss: 0.528, Val Acc: 0.51
+Pretraining NCNet (Epoch [184/275]) --- Loss: 0.496, Val Acc: 0.51
+Pretraining NCNet (Epoch [185/275]) --- Loss: 0.512, Val Acc: 0.52
+Pretraining NCNet (Epoch [186/275]) --- Loss: 0.502, Val Acc: 0.52
+Pretraining NCNet (Epoch [187/275]) --- Loss: 0.415, Val Acc: 0.52
+Pretraining NCNet (Epoch [188/275]) --- Loss: 0.467, Val Acc: 0.51
+Pretraining NCNet (Epoch [189/275]) --- Loss: 0.521, Val Acc: 0.51
+Pretraining NCNet (Epoch [190/275]) --- Loss: 0.466, Val Acc: 0.51
+Pretraining NCNet (Epoch [191/275]) --- Loss: 0.443, Val Acc: 0.51
+Pretraining NCNet (Epoch [192/275]) --- Loss: 0.468, Val Acc: 0.52
+Pretraining NCNet (Epoch [193/275]) --- Loss: 0.539, Val Acc: 0.53
+Pretraining NCNet (Epoch [194/275]) --- Loss: 0.477, Val Acc: 0.53
+Pretraining NCNet (Epoch [195/275]) --- Loss: 0.463, Val Acc: 0.53
+Pretraining NCNet (Epoch [196/275]) --- Loss: 0.470, Val Acc: 0.52
+Pretraining NCNet (Epoch [197/275]) --- Loss: 0.356, Val Acc: 0.52
+Pretraining NCNet (Epoch [198/275]) --- Loss: 0.433, Val Acc: 0.51
+Pretraining NCNet (Epoch [199/275]) --- Loss: 0.422, Val Acc: 0.51
+Pretraining NCNet (Epoch [200/275]) --- Loss: 0.373, Val Acc: 0.51
+Pretraining NCNet (Epoch [201/275]) --- Loss: 0.510, Val Acc: 0.51
+Pretraining NCNet (Epoch [202/275]) --- Loss: 0.450, Val Acc: 0.52
+Pretraining NCNet (Epoch [203/275]) --- Loss: 0.454, Val Acc: 0.52
+Pretraining NCNet (Epoch [204/275]) --- Loss: 0.464, Val Acc: 0.53
+Pretraining NCNet (Epoch [205/275]) --- Loss: 0.516, Val Acc: 0.53
+Pretraining NCNet (Epoch [206/275]) --- Loss: 0.437, Val Acc: 0.53
+Pretraining NCNet (Epoch [207/275]) --- Loss: 0.476, Val Acc: 0.51
+Pretraining NCNet (Epoch [208/275]) --- Loss: 0.425, Val Acc: 0.51
+Pretraining NCNet (Epoch [209/275]) --- Loss: 0.471, Val Acc: 0.52
+Pretraining NCNet (Epoch [210/275]) --- Loss: 0.477, Val Acc: 0.52
+Pretraining NCNet (Epoch [211/275]) --- Loss: 0.482, Val Acc: 0.53
+Pretraining NCNet (Epoch [212/275]) --- Loss: 0.502, Val Acc: 0.53
+Pretraining NCNet (Epoch [213/275]) --- Loss: 0.380, Val Acc: 0.52
+Pretraining NCNet (Epoch [214/275]) --- Loss: 0.485, Val Acc: 0.53
+Pretraining NCNet (Epoch [215/275]) --- Loss: 0.413, Val Acc: 0.52
+Pretraining NCNet (Epoch [216/275]) --- Loss: 0.409, Val Acc: 0.52
+Pretraining NCNet (Epoch [217/275]) --- Loss: 0.548, Val Acc: 0.52
+Pretraining NCNet (Epoch [218/275]) --- Loss: 0.470, Val Acc: 0.52
+Pretraining NCNet (Epoch [219/275]) --- Loss: 0.535, Val Acc: 0.51
+Pretraining NCNet (Epoch [220/275]) --- Loss: 0.398, Val Acc: 0.53
+Pretraining NCNet (Epoch [221/275]) --- Loss: 0.405, Val Acc: 0.53
+Pretraining NCNet (Epoch [222/275]) --- Loss: 0.387, Val Acc: 0.53
+Pretraining NCNet (Epoch [223/275]) --- Loss: 0.387, Val Acc: 0.53
+Pretraining NCNet (Epoch [224/275]) --- Loss: 0.489, Val Acc: 0.53
+Pretraining NCNet (Epoch [225/275]) --- Loss: 0.378, Val Acc: 0.53
+Pretraining NCNet (Epoch [226/275]) --- Loss: 0.406, Val Acc: 0.52
+Pretraining NCNet (Epoch [227/275]) --- Loss: 0.394, Val Acc: 0.52
+Pretraining NCNet (Epoch [228/275]) --- Loss: 0.499, Val Acc: 0.52
+Pretraining NCNet (Epoch [229/275]) --- Loss: 0.395, Val Acc: 0.52
+Pretraining NCNet (Epoch [230/275]) --- Loss: 0.472, Val Acc: 0.52
+Pretraining NCNet (Epoch [231/275]) --- Loss: 0.438, Val Acc: 0.52
+Pretraining NCNet (Epoch [232/275]) --- Loss: 0.371, Val Acc: 0.51
+Pretraining NCNet (Epoch [233/275]) --- Loss: 0.461, Val Acc: 0.51
+Pretraining NCNet (Epoch [234/275]) --- Loss: 0.445, Val Acc: 0.51
+Pretraining NCNet (Epoch [235/275]) --- Loss: 0.456, Val Acc: 0.51
+Pretraining NCNet (Epoch [236/275]) --- Loss: 0.504, Val Acc: 0.51
+Pretraining NCNet (Epoch [237/275]) --- Loss: 0.469, Val Acc: 0.51
+Pretraining NCNet (Epoch [238/275]) --- Loss: 0.398, Val Acc: 0.51
+Pretraining NCNet (Epoch [239/275]) --- Loss: 0.405, Val Acc: 0.51
+Pretraining NCNet (Epoch [240/275]) --- Loss: 0.429, Val Acc: 0.51
+Pretraining NCNet (Epoch [241/275]) --- Loss: 0.437, Val Acc: 0.51
+Pretraining NCNet (Epoch [242/275]) --- Loss: 0.449, Val Acc: 0.51
+Pretraining NCNet (Epoch [243/275]) --- Loss: 0.467, Val Acc: 0.51
+Pretraining NCNet (Epoch [244/275]) --- Loss: 0.425, Val Acc: 0.51
+Pretraining NCNet (Epoch [245/275]) --- Loss: 0.413, Val Acc: 0.51
+Pretraining NCNet (Epoch [246/275]) --- Loss: 0.439, Val Acc: 0.50
+Pretraining NCNet (Epoch [247/275]) --- Loss: 0.445, Val Acc: 0.50
+Pretraining NCNet (Epoch [248/275]) --- Loss: 0.425, Val Acc: 0.51
+Pretraining NCNet (Epoch [249/275]) --- Loss: 0.424, Val Acc: 0.50
+Pretraining NCNet (Epoch [250/275]) --- Loss: 0.444, Val Acc: 0.50
+Pretraining NCNet (Epoch [251/275]) --- Loss: 0.405, Val Acc: 0.51
+Pretraining NCNet (Epoch [252/275]) --- Loss: 0.472, Val Acc: 0.50
+Pretraining NCNet (Epoch [253/275]) --- Loss: 0.460, Val Acc: 0.51
+Pretraining NCNet (Epoch [254/275]) --- Loss: 0.402, Val Acc: 0.51
+Pretraining NCNet (Epoch [255/275]) --- Loss: 0.405, Val Acc: 0.53
+Pretraining NCNet (Epoch [256/275]) --- Loss: 0.413, Val Acc: 0.53
+Pretraining NCNet (Epoch [257/275]) --- Loss: 0.366, Val Acc: 0.53
+Pretraining NCNet (Epoch [258/275]) --- Loss: 0.408, Val Acc: 0.51
+Pretraining NCNet (Epoch [259/275]) --- Loss: 0.414, Val Acc: 0.51
+Pretraining NCNet (Epoch [260/275]) --- Loss: 0.484, Val Acc: 0.51
+Pretraining NCNet (Epoch [261/275]) --- Loss: 0.372, Val Acc: 0.51
+Pretraining NCNet (Epoch [262/275]) --- Loss: 0.400, Val Acc: 0.53
+Pretraining NCNet (Epoch [263/275]) --- Loss: 0.382, Val Acc: 0.53
+Pretraining NCNet (Epoch [264/275]) --- Loss: 0.440, Val Acc: 0.53
+Pretraining NCNet (Epoch [265/275]) --- Loss: 0.365, Val Acc: 0.53
+Pretraining NCNet (Epoch [266/275]) --- Loss: 0.410, Val Acc: 0.53
+Pretraining NCNet (Epoch [267/275]) --- Loss: 0.357, Val Acc: 0.52
+Pretraining NCNet (Epoch [268/275]) --- Loss: 0.443, Val Acc: 0.52
+Pretraining NCNet (Epoch [269/275]) --- Loss: 0.450, Val Acc: 0.52
+Pretraining NCNet (Epoch [270/275]) --- Loss: 0.412, Val Acc: 0.52
+Pretraining NCNet (Epoch [271/275]) --- Loss: 0.368, Val Acc: 0.52
+Pretraining NCNet (Epoch [272/275]) --- Loss: 0.410, Val Acc: 0.51
+Pretraining NCNet (Epoch [273/275]) --- Loss: 0.372, Val Acc: 0.51
+Pretraining NCNet (Epoch [274/275]) --- Loss: 0.459, Val Acc: 0.52
+Pretraining NCNet (Epoch [275/275]) --- Loss: 0.373, Val Acc: 0.52
+Epoch [  1/200] --- EP loss: 0.63, NC loss: 3.11, Val Acc: 0.52, Test Acc: 0.53
+Epoch [  2/200] --- EP loss: 0.60, NC loss: 2.60, Val Acc: 0.55, Test Acc: 0.53
+Epoch [  3/200] --- EP loss: 0.59, NC loss: 1.92, Val Acc: 0.53, Test Acc: 0.53
+Epoch [  4/200] --- EP loss: 0.58, NC loss: 2.13, Val Acc: 0.52, Test Acc: 0.54
+Epoch [  5/200] --- EP loss: 0.57, NC loss: 1.99, Val Acc: 0.52, Test Acc: 0.53
+Epoch [  6/200] --- EP loss: 0.56, NC loss: 1.62, Val Acc: 0.51, Test Acc: 0.54
+Epoch [  7/200] --- EP loss: 0.55, NC loss: 1.62, Val Acc: 0.51, Test Acc: 0.54
+Epoch [  8/200] --- EP loss: 0.54, NC loss: 1.40, Val Acc: 0.51, Test Acc: 0.53
+Epoch [  9/200] --- EP loss: 0.54, NC loss: 1.68, Val Acc: 0.52, Test Acc: 0.53
+Epoch [ 10/200] --- EP loss: 0.53, NC loss: 1.55, Val Acc: 0.52, Test Acc: 0.53
+Epoch [ 11/200] --- EP loss: 0.53, NC loss: 1.43, Val Acc: 0.52, Test Acc: 0.53
+Epoch [ 12/200] --- EP loss: 0.53, NC loss: 1.73, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 13/200] --- EP loss: 0.52, NC loss: 1.76, Val Acc: 0.52, Test Acc: 0.54
+Epoch [ 14/200] --- EP loss: 0.52, NC loss: 1.63, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 15/200] --- EP loss: 0.52, NC loss: 1.51, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 16/200] --- EP loss: 0.52, NC loss: 1.15, Val Acc: 0.52, Test Acc: 0.54
+Epoch [ 17/200] --- EP loss: 0.51, NC loss: 1.65, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 18/200] --- EP loss: 0.51, NC loss: 2.22, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 19/200] --- EP loss: 0.51, NC loss: 1.60, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 20/200] --- EP loss: 0.51, NC loss: 1.14, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 21/200] --- EP loss: 0.51, NC loss: 1.26, Val Acc: 0.54, Test Acc: 0.55
+Epoch [ 22/200] --- EP loss: 0.51, NC loss: 1.24, Val Acc: 0.54, Test Acc: 0.55
+Epoch [ 23/200] --- EP loss: 0.51, NC loss: 1.37, Val Acc: 0.55, Test Acc: 0.55
+Epoch [ 24/200] --- EP loss: 0.51, NC loss: 1.28, Val Acc: 0.55, Test Acc: 0.56
+Epoch [ 25/200] --- EP loss: 0.51, NC loss: 1.24, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 26/200] --- EP loss: 0.51, NC loss: 1.01, Val Acc: 0.54, Test Acc: 0.55
+Epoch [ 27/200] --- EP loss: 0.51, NC loss: 1.11, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 28/200] --- EP loss: 0.51, NC loss: 1.09, Val Acc: 0.52, Test Acc: 0.56
+Epoch [ 29/200] --- EP loss: 0.50, NC loss: 0.97, Val Acc: 0.51, Test Acc: 0.56
+Epoch [ 30/200] --- EP loss: 0.50, NC loss: 1.33, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 31/200] --- EP loss: 0.50, NC loss: 1.24, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 32/200] --- EP loss: 0.50, NC loss: 1.01, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 33/200] --- EP loss: 0.50, NC loss: 1.00, Val Acc: 0.53, Test Acc: 0.56
+Epoch [ 34/200] --- EP loss: 0.50, NC loss: 1.05, Val Acc: 0.53, Test Acc: 0.56
+Epoch [ 35/200] --- EP loss: 0.50, NC loss: 0.97, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 36/200] --- EP loss: 0.49, NC loss: 1.14, Val Acc: 0.53, Test Acc: 0.54
+Epoch [ 37/200] --- EP loss: 0.49, NC loss: 1.36, Val Acc: 0.53, Test Acc: 0.54
+Epoch [ 38/200] --- EP loss: 0.49, NC loss: 1.02, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 39/200] --- EP loss: 0.49, NC loss: 1.11, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 40/200] --- EP loss: 0.49, NC loss: 1.25, Val Acc: 0.52, Test Acc: 0.56
+Epoch [ 41/200] --- EP loss: 0.49, NC loss: 1.15, Val Acc: 0.52, Test Acc: 0.56
+Epoch [ 42/200] --- EP loss: 0.49, NC loss: 1.12, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 43/200] --- EP loss: 0.49, NC loss: 0.93, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 44/200] --- EP loss: 0.49, NC loss: 0.95, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 45/200] --- EP loss: 0.49, NC loss: 0.85, Val Acc: 0.52, Test Acc: 0.56
+Epoch [ 46/200] --- EP loss: 0.49, NC loss: 0.94, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 47/200] --- EP loss: 0.49, NC loss: 1.09, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 48/200] --- EP loss: 0.49, NC loss: 0.93, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 49/200] --- EP loss: 0.49, NC loss: 0.84, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 50/200] --- EP loss: 0.49, NC loss: 0.91, Val Acc: 0.53, Test Acc: 0.54
+Epoch [ 51/200] --- EP loss: 0.49, NC loss: 1.01, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 52/200] --- EP loss: 0.49, NC loss: 0.91, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 53/200] --- EP loss: 0.49, NC loss: 0.90, Val Acc: 0.53, Test Acc: 0.55
+Epoch [ 54/200] --- EP loss: 0.49, NC loss: 0.88, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 55/200] --- EP loss: 0.49, NC loss: 0.90, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 56/200] --- EP loss: 0.49, NC loss: 0.74, Val Acc: 0.50, Test Acc: 0.55
+Epoch [ 57/200] --- EP loss: 0.49, NC loss: 0.91, Val Acc: 0.50, Test Acc: 0.55
+Epoch [ 58/200] --- EP loss: 0.49, NC loss: 1.18, Val Acc: 0.50, Test Acc: 0.55
+Epoch [ 59/200] --- EP loss: 0.49, NC loss: 0.95, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 60/200] --- EP loss: 0.49, NC loss: 1.09, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 61/200] --- EP loss: 0.49, NC loss: 0.83, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 62/200] --- EP loss: 0.49, NC loss: 1.09, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 63/200] --- EP loss: 0.49, NC loss: 0.87, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 64/200] --- EP loss: 0.49, NC loss: 0.92, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 65/200] --- EP loss: 0.49, NC loss: 0.86, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 66/200] --- EP loss: 0.49, NC loss: 0.77, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 67/200] --- EP loss: 0.49, NC loss: 0.73, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 68/200] --- EP loss: 0.49, NC loss: 0.80, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 69/200] --- EP loss: 0.49, NC loss: 1.14, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 70/200] --- EP loss: 0.49, NC loss: 1.02, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 71/200] --- EP loss: 0.49, NC loss: 1.30, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 72/200] --- EP loss: 0.49, NC loss: 0.87, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 73/200] --- EP loss: 0.49, NC loss: 0.81, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 74/200] --- EP loss: 0.49, NC loss: 0.86, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 75/200] --- EP loss: 0.49, NC loss: 0.99, Val Acc: 0.52, Test Acc: 0.54
+Epoch [ 76/200] --- EP loss: 0.49, NC loss: 1.03, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 77/200] --- EP loss: 0.49, NC loss: 1.02, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 78/200] --- EP loss: 0.49, NC loss: 0.80, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 79/200] --- EP loss: 0.49, NC loss: 0.90, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 80/200] --- EP loss: 0.49, NC loss: 0.83, Val Acc: 0.50, Test Acc: 0.55
+Epoch [ 81/200] --- EP loss: 0.49, NC loss: 1.10, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 82/200] --- EP loss: 0.49, NC loss: 0.87, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 83/200] --- EP loss: 0.49, NC loss: 1.00, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 84/200] --- EP loss: 0.49, NC loss: 0.81, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 85/200] --- EP loss: 0.49, NC loss: 0.77, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 86/200] --- EP loss: 0.49, NC loss: 0.91, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 87/200] --- EP loss: 0.49, NC loss: 1.14, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 88/200] --- EP loss: 0.49, NC loss: 0.96, Val Acc: 0.52, Test Acc: 0.55
+Epoch [ 89/200] --- EP loss: 0.49, NC loss: 1.16, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 90/200] --- EP loss: 0.49, NC loss: 0.92, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 91/200] --- EP loss: 0.49, NC loss: 0.78, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 92/200] --- EP loss: 0.49, NC loss: 0.98, Val Acc: 0.50, Test Acc: 0.55
+Epoch [ 93/200] --- EP loss: 0.49, NC loss: 0.98, Val Acc: 0.50, Test Acc: 0.55
+Epoch [ 94/200] --- EP loss: 0.49, NC loss: 0.82, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 95/200] --- EP loss: 0.49, NC loss: 0.89, Val Acc: 0.50, Test Acc: 0.54
+Epoch [ 96/200] --- EP loss: 0.49, NC loss: 1.13, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 97/200] --- EP loss: 0.49, NC loss: 0.74, Val Acc: 0.51, Test Acc: 0.54
+Epoch [ 98/200] --- EP loss: 0.49, NC loss: 0.93, Val Acc: 0.51, Test Acc: 0.55
+Epoch [ 99/200] --- EP loss: 0.49, NC loss: 1.00, Val Acc: 0.51, Test Acc: 0.54
+Epoch [100/200] --- EP loss: 0.48, NC loss: 0.72, Val Acc: 0.51, Test Acc: 0.54
+Epoch [101/200] --- EP loss: 0.48, NC loss: 0.83, Val Acc: 0.51, Test Acc: 0.54
+Epoch [102/200] --- EP loss: 0.48, NC loss: 0.91, Val Acc: 0.50, Test Acc: 0.54
+Test Accuracy: 0.543
+Micro F1: 0.542617, std: 0.000000

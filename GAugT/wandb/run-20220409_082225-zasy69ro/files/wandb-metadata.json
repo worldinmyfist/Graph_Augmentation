@@ -1,0 +1,33 @@
+{
+    "os": "Linux-4.15.0-142-generic-x86_64-with-debian-stretch-sid",
+    "python": "3.7.6",
+    "heartbeatAt": "2022-04-09T02:52:27.015187",
+    "startedAt": "2022-04-09T02:52:25.205650",
+    "docker": null,
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 40,
+    "cuda": "10.2.89",
+    "args": [
+        "--dataset",
+        "ppi",
+        "--gnn",
+        "gcn",
+        "--gpu",
+        "0",
+        "--wandb",
+        "True"
+    ],
+    "state": "running",
+    "program": "train_GAugO.py",
+    "codePath": "GAugO/train_GAugO.py",
+    "git": {
+        "remote": "https://github.com/ShivanshRakesh/graph_augmentation.git",
+        "commit": "555dccd44f9ee980362710f7a88b1f4735b8169e"
+    },
+    "email": "k.v.aditya@research.iiit.ac.in",
+    "root": "/scratch/kvaditya/graph_augmentation",
+    "host": "gnode31",
+    "username": "kvaditya",
+    "executable": "/home/kvaditya/miniconda3/envs/tidl/bin/python"
+}

@@ -1,0 +1,68 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.14
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.6
+    start_time: 1649475956
+    t:
+      1:
+      - 1
+      - 5
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 53
+      - 55
+      3:
+      - 2
+      - 16
+      4: 3.7.6
+      5: 0.12.14
+      8:
+      - 5
+alpha:
+  desc: null
+  value: 0.01
+beta:
+  desc: null
+  value: 3.1
+dataset:
+  desc: null
+  value: ppi
+ep_epochs:
+  desc: null
+  value: 65
+feat_norm:
+  desc: null
+  value: col
+gnn:
+  desc: null
+  value: gat
+layer_type:
+  desc: null
+  value: gat
+lr:
+  desc: null
+  value: 0.005
+model_type:
+  desc: null
+  value: GAugO
+n_layers:
+  desc: null
+  value: 1
+nc_epochs:
+  desc: null
+  value: 155
+temperature:
+  desc: null
+  value: 0.9
+warmup:
+  desc: null
+  value: 0

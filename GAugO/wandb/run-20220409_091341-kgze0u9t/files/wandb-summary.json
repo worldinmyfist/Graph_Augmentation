@@ -1,0 +1,1 @@
+{"EP_Loss": 0.423797607421875, "NC_Loss": 0.39368805289268494, "Val_Acc": 0.786, "Test_Acc": 0.817, "_timestamp": 1649475844, "_runtime": 23, "_step": 199, "_wandb": {"runtime": 25}}
